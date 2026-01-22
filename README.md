@@ -48,7 +48,7 @@ cd rock-paper-scissors
 
 ## 🌐 Live Demo
 
-[Try me out! Click here~ owo](https://pxtchvm.github.io/rock-paper-scissors/)
+[Try me out! Click here~ owo](https://petchvm.github.io/rock-paper-scissors/)
 
 ---
 Made with 💖 and lots of headpats! (｡◕‿◕｡)
